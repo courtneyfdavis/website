@@ -45,3 +45,12 @@ a:visited {
     margin-top: 20px;
     box-shadow: 5px 10px 5px rgb(233, 248, 101);
 }
+
+#sketch {
+    border: 10px solid #36d8f4;
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 30px;
+
+}

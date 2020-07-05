@@ -1,7 +1,9 @@
 function setup() {
-  createCanvas(600, 600);
+    var canvas = createCanvas(600, 600);
+    canvas.parent("sketch")
 }
 
 function draw() {
-  background(rgb(255, 0, 0));
+    background(233, 248, 101)
+
 }
