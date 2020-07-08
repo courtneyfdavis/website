@@ -22,6 +22,10 @@ a:visited {
     display: inline-block;
 }
 
+a:hover {
+    background-color: coral;
+}
+
 .project-image {
     width: 25%;
 }
